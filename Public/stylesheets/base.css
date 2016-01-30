@@ -1,0 +1,11 @@
+body {
+	background-color: #FDFEFD;
+}
+
+#main_header {
+	text-align: center;
+	color: #FC694A;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 20;
+	margin-top: 50px; 
+}

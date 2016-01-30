@@ -6,6 +6,22 @@ body {
 	text-align: center;
 	color: #FC694A;
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-	font-size: 20;
-	margin-top: 50px; 
+	font-size: 200%;
+	margin-top: 250px; 
+}
+
+#project_block {
+	text-align: center;
+	font-size: 100%;
+	border-radius: 15px;
+    border: 1px solid #73AD21;
+    padding: 10px; 
+    width: 200px;
+    height: 60px; 
+    margin: 0 auto;
+}
+
+p {
+	color: #FFFFFF;
+	font-weight: bold;
 }
